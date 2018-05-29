@@ -1419,9 +1419,9 @@ lru-cache@^4.0.1:
     pseudomap "^1.0.2"
     yallist "^2.1.2"
 
-"madge@git+ssh://git@github.com/p-j/madge#fix/coffee-script":
+"madge@git://github.com/p-j/madge#fix/coffee-script":
   version "0.6.0"
-  resolved "git+ssh://git@github.com/p-j/madge#4066bebb2864ee449253e95b8e7ff3c55a05dda4"
+  resolved "git://github.com/p-j/madge#4066bebb2864ee449253e95b8e7ff3c55a05dda4"
   dependencies:
     amdetective "~0.2.1"
     coffee-script "1.12.2"
